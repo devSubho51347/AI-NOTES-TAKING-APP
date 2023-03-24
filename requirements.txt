@@ -1,0 +1,9 @@
+streamlit
+SpeechRecognition
+gTTS
+playsound
+PyAudio
+numpy
+notion
+requests
+pandas
